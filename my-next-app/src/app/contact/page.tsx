@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getSession } from "../_lib/session"
 import { createContacts, getContacts } from "../api/contacts"
-import ContactCard from "../_component/ContactCard";
 import ContactList from "../_component/ContactList";
 
 

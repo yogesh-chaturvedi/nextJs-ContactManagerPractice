@@ -1,7 +1,6 @@
 "use client"
 
 import { useQuery } from '@tanstack/react-query'
-import React from 'react'
 import { getContacts } from '../api/contacts'
 import ContactCard from './ContactCard'
 
